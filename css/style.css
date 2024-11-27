@@ -1,0 +1,17 @@
+.qoute h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.qoute p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+.qoute button{
+    padding: 30px 90px;
+    background-color:blue;
+    color: white;
+    font-size: 13px;
+}
+.qoute button:hover{
+    background-color:green;
+}
